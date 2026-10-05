@@ -1,0 +1,11 @@
+OUTPUT 
+eStorage\2afa4883fb56265ad9e4f3fdd8adcc67\redhat.java\jdt_ws\PRITI38_19355c96\bin' 'OperatorDemo' 
+Arithmetic Promotion Result: 79
+x + y = 75
+x - y = 25
+x * y = 1250
+x / y = 2
+x % y = 0
+Additiom: 97
+Multiplication: 5928
+PS C:\Users\coe.shirpur\.vscode\PRITI38> 
