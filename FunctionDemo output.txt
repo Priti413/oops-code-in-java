@@ -1,0 +1,10 @@
+OUTPUT:-
+Add two integers: 13
+Add three integers: 19
+Add two doubles: 9.7
+Name: PritiAge19
+Name: TruptiAge23
+Name: TruptiAge23
+Student s4 details (reference to s2):
+Name: TruptiAge23
+PS C:\PRITI38> 
