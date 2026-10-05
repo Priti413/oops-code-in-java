@@ -1,0 +1,22 @@
+OUTPUT 
+Concatentation:Hello
+ World
+Length of str1:6
+Chracter at index 1:e
+Substrating of str2(0-3):Wor
+Equals str 1 nd str2: false
+Uppercase str1:HELLO
+
+LowerCase str1:hello
+
+Square Root of a:4.0
+A raised to b:28526.20085808741
+Max of a and b:16.0
+min of a and b:3.7
+Random numbers 0 to 1(0-1)0.981710521506226
+Random number (10 to 20):27.735450753289346
+Random number (1-100):26.49237438646407
+Ceil of b:4.0
+floor of b:3.0
+round of b:4
+PS C:\Users\coe.shirpur\.vscode\PRITI38> 
